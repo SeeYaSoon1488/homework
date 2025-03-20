@@ -1,0 +1,35 @@
+.block {
+  font-family: "Open Sans",Arial, Helvetica, sans-serif ;
+  font-weight: 300px;
+  font-size: 20px;
+  line-height: 30px;
+  font-style: italic;
+  font-variant: small-caps;
+}
+
+.block2 {
+  text-decoration: line-through;
+  text-transform: lowercase;
+}
+
+.block3 {
+  text-align: center;
+  text-transform: lowercase;
+}
+
+.block4 {
+  word-spacing: 30px;
+  text-decoration-style: wavy;
+  text-decoration-color: #b22a6e;
+  text-decoration-line: overline;
+  text-shadow: 2px 2px 3px #c23b9c;
+  text-align: left;
+}
+
+#block5{
+  letter-spacing: 5px;
+  text-decoration-style: double;
+  text-decoration-color: none;
+  text-decoration-line: underline;
+  text-align: left;
+}
